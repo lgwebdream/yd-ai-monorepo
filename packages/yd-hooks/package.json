@@ -1,6 +1,6 @@
 {
   "name": "@yideng/hooks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "build": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@yideng/ui": "^1.0.2"
+    "@yideng/ui": "^1.0.3"
   },
   "gitHead": "b05bdc77906b218fab2da39b3f90d7d69239d900"
 }
