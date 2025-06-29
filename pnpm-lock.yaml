@@ -15,7 +15,7 @@ importers:
   packages/yd-hooks:
     dependencies:
       '@yideng/ui':
-        specifier: ^1.0.3
+        specifier: ^1.0.4
         version: 1.1.2
 
   packages/yd-libs: {}
